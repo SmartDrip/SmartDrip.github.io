@@ -363,6 +363,13 @@ video{
     height: 500px;
     border-radius: 4px;
 }
+
+.logou {
+    display: block; /* Asegura que la imagen se comporte como un bloque */
+    margin: 0 auto; /* Margen automático a los lados para centrar horizontalmente */
+    text-align: center; /* Alineación centrada para el contenido dentro del contenedor */
+    margin-bottom: 0px;
+}
 /*=======================================================================================================
 =                                             Estilos galeria                                           =
 ========================================================================================================*/
