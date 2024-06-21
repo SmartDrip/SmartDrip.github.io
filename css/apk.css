@@ -8,8 +8,8 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     border-radius: 10px;
     overflow: hidden;
-    margin-left: 20%;
-    margin-bottom: 5%;
+    margin-left: 200px;
+    margin-bottom: auto;
 }
 
 .custom-phone-image {
@@ -69,6 +69,7 @@
 @media screen and (max-width: 767px) {
     .custom-container {
         max-width: 100%;
+        margin-left: auto;
     }
 
     .custom-content {
