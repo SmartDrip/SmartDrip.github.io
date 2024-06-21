@@ -10,6 +10,7 @@ html, body {
     font-size: 16px;
     background-color: #fff;
     position: relative;
+    text-align: justify;
 }
 video{
     width: 100%;
@@ -206,6 +207,7 @@ video{
     background-color: #00796b;
     position: relative;
     height: auto;
+    position: absolute;
 }
 .footer-copyright{
     padding: 20px 0 10px 0;
